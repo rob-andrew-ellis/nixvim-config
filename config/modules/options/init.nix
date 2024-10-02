@@ -5,6 +5,4 @@
 
     shiftwidth = 4;
   };
-
-  globals.mapleader = " ";
 }
