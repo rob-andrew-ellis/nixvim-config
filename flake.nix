@@ -1,5 +1,4 @@
 {
-  name = "nixvim";
   description = "A nixvim configuration";
 
   inputs = {
