@@ -1,8 +1,8 @@
 {
-  options = {
+  opts = {
     number = true;
     relativenumber = true;
-
-    shiftwidth = 4;
+    conceallevel = 2;
+    mouse = "a";
   };
 }
