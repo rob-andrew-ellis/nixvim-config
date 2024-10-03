@@ -1,4 +1,10 @@
 {
+  autoGroups = {
+    highlight-yank = {
+      clear = true;
+    };
+  };
+
   autoCmd = [
     { # Highlight text when yanking
       event = ["TextYankPost"];

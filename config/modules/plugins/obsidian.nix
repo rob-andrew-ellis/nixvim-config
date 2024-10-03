@@ -28,7 +28,7 @@
           opts.buffer = true;
         };
         "<cr>" = {
-          action = "require('obsidian').util.smar_action()";
+          action = "require('obsidian').util.smart_action()";
           opts = {
             buffer = true;
             expr = true;
@@ -64,12 +64,12 @@
 
         checkboxes = {
           " " = {
-           char = "󰄱";
+            char = "󰄱";
             hl_group = "ObsidianTodo";
           };
           ">" = {
-          char = "";
-           hl_group = "ObsidianRightArrow";
+            char = "";
+            hl_group = "ObsidianRightArrow";
           };
           x = {
             char = "";

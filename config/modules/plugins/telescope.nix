@@ -80,7 +80,7 @@
     };
 
     settings = {
-      extendions.__raw = "{ ['ui-select'] = { require('telescope.themes').get_dropdown() } }"; 
+      extendions.__raw = "{ ['ui-select'] = { require('telescope.themes').get_dropdown() } }";
       defaults = {
         wrap_results = true;
       };
