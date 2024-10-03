@@ -2,6 +2,7 @@
   imports = [
     ./lsp.nix
     ./cmp.nix
+    ./oil.nix
   ];
 
   plugins = {
