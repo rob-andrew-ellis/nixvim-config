@@ -7,5 +7,5 @@
     ./modules/plugins/init.nix
   ];
 
-  colorschemes.nord.enable = true;
+  colorschemes.everforest.enable = true;
 }
